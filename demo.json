@@ -1,0 +1,627 @@
+{
+  "code": "0000",
+  "msg": "操作成功!",
+  "data": {
+      "stockTrendMap": {
+          "WYT112A75-1": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-1",
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-1",
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-1",
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-1",
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-1",
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-1",
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-1",
+                  "currentStock": 1000,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0,
+                  "whStockId": 81789096
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-1",
+                  "currentStock": 1000,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              }
+          ],
+          "WYT112A75-2": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-2",
+                  "currentStock": 0,
+                  "totalInStockQty": 0,
+                  "totalOutStockQty": 0
+              }
+          ]
+      },
+      "inStockDetailMap": {
+          "WYT112A75-1": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-1",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              }
+          ],
+          "WYT112A75-2": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-2",
+                  "purchaseInStockQty": 0,
+                  "otherInStockQty": 0,
+                  "details": [],
+                  "tranOrderInQty": 0
+              }
+          ]
+      },
+      "outStockDetailMap": {
+          "WYT112A75-1": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-1",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              }
+          ],
+          "WYT112A75-2": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-2",
+                  "directOrderOutStockQty": 0,
+                  "shipmentOutStockQty": 0,
+                  "tranOrderOutQty": 0,
+                  "otherOutStockQty": 0,
+                  "details": [],
+                  "purOrderBackOutQty": 0,
+                  "prodComOutQty": 0
+              }
+          ]
+      },
+      "pskuSaleTrendList": [
+          {
+              "curDate": "2024-12-18",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-19",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-20",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-21",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-22",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-23",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-24",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          },
+          {
+              "curDate": "2024-12-25",
+              "sku": "WYT112A75-1",
+              "productQty": 0,
+              "profit": "00",
+              "orderQty": 0
+          }
+      ],
+      "sskuNotSaleMap": {
+          "WYT112A75-1": {
+              "isSale": true,
+              "notSaleReason": "",
+              "notSaleTime": 1732154858000,
+              "sku": "WYT112A75-1"
+          },
+          "WYT112A75-2": {
+              "isSale": true,
+              "notSaleReason": "",
+              "notSaleTime": 1732068206000,
+              "sku": "WYT112A75-2"
+          }
+      },
+      "sskuSaleTrendMap": {
+          "WYT112A75-1": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-1",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              }
+          ],
+          "WYT112A75-2": [
+              {
+                  "curDate": "2024-12-18",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-19",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-20",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-21",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-22",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-23",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-24",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              },
+              {
+                  "curDate": "2024-12-25",
+                  "sku": "WYT112A75-2",
+                  "productQty": 0,
+                  "profit": "0",
+                  "orderQty": 0
+              }
+          ]
+      }
+  },
+  "count": 0,
+  "traceUUID": "fc9e97d4402886c40489"
+}
