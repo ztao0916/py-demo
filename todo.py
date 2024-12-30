@@ -24,7 +24,10 @@ class Task:  # 定义任务类
             'completed': self.completed
         }
 
-    @classmethod  # 装饰器
+    # 装饰器classmethod,语法: @classmethod
+    # 定义一个类方法,绑定到类上,而不是类的实例,可以直接通过类名调用
+    # 第一个参数cls,表示类本身,而不是类的实例
+    @classmethod
     def from_dict(cls, data):  # 从字典创建任务对象
         task = cls(data['title'], data['description'])
         task.id = data['id']
@@ -113,6 +116,7 @@ def main():
         elif choice == "3":
             todo_list.list_tasks()
             task_id = input("\n请输入要完成的任务ID: ")
+            # 先检查输入的字符串中是否都是数字isdigit(),然后转换为整数
             if task_id.isdigit() and todo_list.complete_task(int(task_id)):
                 print("任务已标记为完成！")
             else:
@@ -134,5 +138,7 @@ def main():
             print("无效的选择，请重试。")
 
 
+# __name__ 是Python的内置变量,用于表示当前模块的名称,当模块被直接运行时,__name__的值为__main__
+# 如果模块被导入,则__name__的值为模块的名称
 if __name__ == "__main__":
     main()
